@@ -5,6 +5,16 @@ Crates are containers for items. Especially large items (Such as lockers, certai
 
 Supply Crates are ordered at Cargo Bay by either a Cargo Technician or the Quartermaster. You can also send them a request via PDA or the Requests Console. More crates can be found around the station.
 
+# Contents
+|Contents|
+|:--------|
+[Ordering Crates](#ordering-crates)
+[Crate Locks and Access](#crate-locks-and-access)
+[The cargo consoles](#the-cargo-consoles)
+[Order Up](#order-up)
+[The Packs](#the-packs)
+[What Crates Look Like](#what-crates-look-like)
+
 ## Ordering Crates
 The Cargo Crew can order a whole lot of crates and usually wants the crate back after you've taken your supplies. They are worth a certain amount of points which can be used to get more supplies for the station's whole benefit. Cargo Techs like it when people bring crates, and will often give things without hassle to people with crates brought in.
 
@@ -25,7 +35,41 @@ The bounty console shows you items that CC wants and how many. These are good fo
 
 Cargo budget starts off with 5,000 credits, and a passive income of 750 credits every minute. This is the budget you use to buy crates, and this is where money from exports ends up. You can also insert space cash into the bank machine in the vault to make it go directly into the cargo budget. The Quartermaster can enter the vault by using the supply door remote, found in the QM's locker.
 
+## The Packs
+#### Armory!
+<details>
+  <summary>Click to expand!</summary>
+ 
+|Name                                            |Cost|Contents                          |Access Required|Notes                                      |
+|:----------------------- |:--------------------------|:---------------|:------------------------------------------|:--|
+|Bulletproof Armor Crate                         |1250|Bullet Proof Vests - 3            |Armory         |                                           |
+|Bulletproof Helmet Crate                        |1250|Bullet Proof Helmet - 3           |Armory         |                                           |
+|Chemical Implants Crate                         |1700|Remote Chemical implants - 5      |Armory         |Comes with an implanter in the box         |
+|Combat Knives Crate                             |3200|Combat Knifes - 3                 |Armory         |                                           |
+|Combat Shotguns Crate                           |8000|Automatic Combat Shotgun - 3 </br> Bandolier - 3 </br> Box of 12g - 1 </br> Box of Buckshot - 1 |Armory|The shotguns themselfs come pre-loaded, just needs to be chambered|
+|DRAGnet gun Crate                               |3250|DRAGnet gun - 2                   |Armory         |                                           |
+|Energy Guns Crate                               |3250|Energy Gun - 3                    |Armory         |                                           |
+|Exile Implants Crate                            |1050|Exile implant - 5                 |Armory         |Comes with an implanter in the box, useless without admins to make an away mission                                                                                            |
+|Mindshield Implants Crate                       |4000|Mindshield Implants - 3           |Armory         |Likely will end up needing 3-4 of these well in convertion based game mode.                                                                                                   |
+|Tracking Implants Crate                         |1050|Tracking Implant - 4              |Armory         | Comes with an implanter in the box        |
+|Incendiary Weapons Crate                        |1750|Fully made flamer - 1 </br> Plasma tank - 3 </br> Box of Dragon Breath - 1 <br/> Grenade Incendiary - 3                                                                       |Heads |Flamer dosnt come loaded.                  |
+|Personal Miniature Energy Guns                  |3000|Miniature Energy gun - 3          |Armory         |                                           |
+|Reflector Vest Crate                            |2000|Reflector Vest       - 2          |Armory         |Shockingly cheap traiter goal              |
+|Riot Armor Crate                                |1750|Riot Vests - 3                    |Armory         |                                           |
+|Riot Helmets Crate                              |1750|Riot Helmets - 3                  |Armory         |                                           |
+|Riot Shields Crate                              |2200|Riot Shields  - 3                 |Armory         |                                           |
+|Riot Shotgun Crate                              |6500|Riot Shotgun  - 3            </br> Box of rubber shot - 1       </br> Box of Beanbag - 1                                                                                 |Armory|The shotguns themselfs come pre-loaded, just needs to be chambered                                                                                                             |
+|SWAT Crate                                      |6000|NT Swat Helmets  - 2 </br> SWAT Suits - 2 </br> Combat gloves - 2 </br> SWAT sec Hailers - 2 </br> Combat Belt = 2 |Armory         |The SWAT suit and helmets are space proof  |
+|SWAT tatical tasers Crate                       |7000|SWAT Tasers  - 2                   |Armory        |                                           |
+|Classic WoodStock Shotguns Crate                |3000|4 Round shotgun  - 3               |Armory        |Already loaded needs to be chambered       |
+|WT-550 Semi-Auto Rifle Crate                    |2550|WT-550 Semi Auto rifle   - 2       |Armory        |Pre loaded with lethals                    |
+|WT-550 Semi-Auto SMG Ammo Crate                 |1750|WT-550 rifle Lethal Ammo  - 4      |Armory        |                                           |
+|WT-550 Semi-Auto SMG Non-Lethal Ammo Crate      |1750|WT-550 rifle None Lethal Ammo  - 4 |Armory        |                                           |
+|WT-550 Semi-Auto SMG Special Ammo Crate         |3000|WT-550 rifle Incendiary Ammo  - 2  </br> WT-550 rifle AP Ammo  - 2 |Armory        |                                           |                                         |
+</details>
 
 
-### What Crates Look Like
+
+## What Crates Look Like
+
 ![All the crates!](https://cdn.discordapp.com/attachments/578056201418571776/661423587575726120/Crate.png "Every crate")
