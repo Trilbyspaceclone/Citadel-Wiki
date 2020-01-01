@@ -36,7 +36,7 @@ The bounty console shows you items that CC wants and how many. These are good fo
 Cargo budget starts off with 5,000 credits, and a passive income of 750 credits every minute. This is the budget you use to buy crates, and this is where money from exports ends up. You can also insert space cash into the bank machine in the vault to make it go directly into the cargo budget. The Quartermaster can enter the vault by using the supply door remote, found in the QM's locker.
 
 ## The Packs
-#### Armory!
+#### Armory
 <details>
   <summary>Click to expand!</summary>
  
@@ -68,6 +68,36 @@ Cargo budget starts off with 5,000 credits, and a passive income of 750 credits 
 |WT-550 Semi-Auto SMG Special Ammo Crate         |3000|WT-550 rifle Incendiary Ammo  - 2  </br> WT-550 rifle AP Ammo  - 2 |Armory        |                                           |                                         |
 </details>
 
+#### Costumes & Toys
+<details>
+  <summary>Click to expand!</summary>
+ 
+|Name                                            |Cost|Contents                          |Access Required|Notes                                      |
+|:----------------------- |:--------------------------|:---------------|:------------------------------------------|:--|
+|Collectable Hats Crate                         |20000|Collectable Hat That can be one of -</br>Chef</br>Paper</br>Tophat</br>Captain</br>Beret</br>Welding</br>Flatcap</br>Pirate</br>Kitty</br>Rabbet Ears</br>Wizard</br>Hardhat</br>HoS</br>HoP</br>Thunderdome</br>SWAT</br>Slime</br>Xenom</br>Ultra Rare Pete's hat!             ||You only get 3 random items in this list                                           |
+|Contraband Crate                                |3000|Contraband Posters</br>Life Weed</br>Cannabis</br>Life Cannabis</br>Zoompill Bottle</br>Happypill Bottle</br>LSDpill Bottle</br>Aranesppill Bottle</br>Stimulantpill Bottle</br>Deck of Syndicate Cards</br>Tacticool Jumpsuit</br>Tactical Jumpsuit</br>Bottle of Absinthe</br>Gun Suppressor</br>Shady Slims Smokes</br>Syndicate Smokes</br>Syndicate Gas Mask</br>Golden Necklace</br>Donksoft Vender Restock Unit</br>Amputation Arcade Game           |Console Needs to be hacked|    You only Get 5 random items in this pack      |
+|Foam Force Crate                                |1000|Foam Shotgun - 8                  ||Preloaded just needs to be chambered|
+|Foam Force Pistols Crate                        |4000|Foam Pistol - 2</br> Foam Pistol Magazine -2      |Console Needs to be hacked|Pistols come pre-loaded                     |
+|Formalwear Crate                                |4750|Black Tango Dress -1</br>Formal Assistant Jumpsuit -2</br>Blue suit -1</br>Blue Suit Jacket -1</br>Purple Suit-1</br>Purple Suit Jacket-1</br>Black Suit-1</br>Black Suit Jacket-1</br>Waistcoat-1</br>Blue Tie-1</br>Red Tie-1</br>Black Tie-1</br>Bowler Hat-1</br>Fedora-1</br>Flat Cap-1</br>beret-1</br>Top-Hat-1</br>Laceup Shoes-3</br>Charcoal Suit-1</br>Navy Suit-1</br>Burgundy Suit-1</br>Checkered Suit-1</br>Tan Suit-1</br>Lipstick (of random color)   |         |                                           |
+|Hilarious Firing Pin Crate                      |5000|Clown Firing Pin - 1              |Console Needs to be hacked|                   |
+|Laser Tag Crate                                 |3500|Red Laser Tag Gun -3</br> Blue Laser Tag Gun -3</br> Red Laser Tag Armor-3</br> Blue Laser Tag Armor-3</br>Red Laser Tag Helmet-3</br>Blue Laser Tag Helmet-3                 |         |                                                                                            |
+|Laser Tag Firing Pins Crate                     |3000|Mindshield Implants - 3           |Armory         |Likely will end up needing 3-4 of these well in convertion based game mode.                                                                                                   |
+|Tracking Implants Crate                         |1050|Tracking Implant - 4              |Armory         | Comes with an implanter in the box        |
+|Incendiary Weapons Crate                        |1750|Fully made flamer - 1 </br> Plasma tank - 3 </br> Box of Dragon Breath - 1 <br/> Grenade Incendiary - 3                                                                       |Heads |Flamer dosnt come loaded.                  |
+|Personal Miniature Energy Guns                  |3000|Miniature Energy gun - 3          |Armory         |                                           |
+|Reflector Vest Crate                            |2000|Reflector Vest       - 2          |Armory         |Shockingly cheap traiter goal              |
+|Riot Armor Crate                                |1750|Riot Vests - 3                    |Armory         |                                           |
+|Riot Helmets Crate                              |1750|Riot Helmets - 3                  |Armory         |                                           |
+|Riot Shields Crate                              |2200|Riot Shields  - 3                 |Armory         |                                           |
+|Riot Shotgun Crate                              |6500|Riot Shotgun  - 3            </br> Box of rubber shot - 1       </br> Box of Beanbag - 1                                                                                 |Armory|The shotguns themselfs come pre-loaded, just needs to be chambered                                                                                                             |
+|SWAT Crate                                      |6000|NT Swat Helmets  - 2 </br> SWAT Suits - 2 </br> Combat gloves - 2 </br> SWAT sec Hailers - 2 </br> Combat Belt = 2 |Armory         |The SWAT suit and helmets are space proof  |
+|SWAT tatical tasers Crate                       |7000|SWAT Tasers  - 2                   |Armory        |                                           |
+|Classic WoodStock Shotguns Crate                |3000|4 Round shotgun  - 3               |Armory        |Already loaded needs to be chambered       |
+|WT-550 Semi-Auto Rifle Crate                    |2550|WT-550 Semi Auto rifle   - 2       |Armory        |Pre loaded with lethals                    |
+|WT-550 Semi-Auto SMG Ammo Crate                 |1750|WT-550 rifle Lethal Ammo  - 4      |Armory        |                                           |
+|WT-550 Semi-Auto SMG Non-Lethal Ammo Crate      |1750|WT-550 rifle None Lethal Ammo  - 4 |Armory        |                                           |
+|WT-550 Semi-Auto SMG Special Ammo Crate         |3000|WT-550 rifle Incendiary Ammo  - 2  </br> WT-550 rifle AP Ammo  - 2 |Armory        |                                           |                                         |
+</details>
 
 
 ## What Crates Look Like
