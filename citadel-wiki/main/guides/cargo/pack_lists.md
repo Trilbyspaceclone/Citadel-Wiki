@@ -36,7 +36,9 @@ The bounty console shows you items that CC wants and how many. These are good fo
 Cargo budget starts off with 5,000 credits, and a passive income of 750 credits every minute. This is the budget you use to buy crates, and this is where money from exports ends up. You can also insert space cash into the bank machine in the vault to make it go directly into the cargo budget. The Quartermaster can enter the vault by using the supply door remote, found in the QM's locker.
 
 ## The Packs
+
 #### Armory
+
 <details>
   <summary>Click to expand!</summary>
  
@@ -45,23 +47,24 @@ Cargo budget starts off with 5,000 credits, and a passive income of 750 credits 
 |Bulletproof Armor Crate                         |1250|Bullet Proof Vests - 3            |Armory         |                                           |
 |Bulletproof Helmet Crate                        |1250|Bullet Proof Helmet - 3           |Armory         |                                           |
 |Chemical Implants Crate                         |1700|Remote Chemical implants - 5      |Armory         |Comes with an implanter in the box         |
+|Classic WoodStock Shotguns Crate                |3000|Four Round shotgun  - 3           |Armory        |Already loaded but needs to be chambered       |
 |Combat Knives Crate                             |3200|Combat Knifes - 3                 |Armory         |                                           |
 |Combat Shotguns Crate                           |8000|Automatic Combat Shotgun - 3 </br> Bandolier - 3 </br> Box of 12g - 1 </br> Box of Buckshot - 1 |Armory|The shotguns themselves come pre-loaded, just needs to be chambered|
 |DRAGnet gun Crate                               |3250|DRAGnet gun - 2                   |Armory         |                                           |
 |Energy Guns Crate                               |3250|Energy Gun - 3                    |Armory         |                                           |
 |Exile Implants Crate                            |1050|Exile implant - 5                 |Armory         |Comes with an implanter in the box, useless without admins to make an away mission                                                                                            |
 |Mindshield Implants Crate                       |4000|Mindshield Implants - 3           |Armory         |Likely will end up needing 3-4 of these in convertion based game mode.                                                                                                   |
-|Tracking Implants Crate                         |1050|Tracking Implant - 4              |Armory         | Comes with an implanter in the box        |
+|Tracking Implants Crate                         |1050|Tracking Implant - 4 </br> .38 TRAC reloaders - 3              |Armory         | Comes with an implanter in the box        |
 |Incendiary Weapons Crate                        |1750|Fully made flamer - 1 </br> Plasma tank - 3 </br> Box of Dragon Breath - 1 <br/> Grenade Incendiary - 3                                                                       |Heads |Flamer doesn't come loaded.                  |
 |Personal Miniature Energy Guns                  |3000|Miniature Energy gun - 3          |Armory         |                                           |
 |Reflector Vest Crate                            |2000|Reflector Vest       - 2          |Armory         |Shockingly cheap traitor goal              |
 |Riot Armor Crate                                |1750|Riot Vests - 3                    |Armory         |                                           |
 |Riot Helmets Crate                              |1750|Riot Helmets - 3                  |Armory         |                                           |
 |Riot Shields Crate                              |2200|Riot Shields  - 3                 |Armory         |                                           |
-|Riot Shotgun Crate                              |6500|Riot Shotgun  - 3            </br> Box of rubber shot - 1       </br> Box of Beanbag - 1                                                                                 |Armory|The shotguns themselves come pre-loaded, just needs to be chambered                                                                                                             |
+|Riot Shotgun Crate                              |6500|Riot Shotgun  - 3        </br> Box of rubber shot - 1   </br> Box of Beanbag - 1                                                                                        |Armory|The shotguns themselves come pre-loaded, just needs to be chambered |
 |SWAT Crate                                      |6000|NT Swat Helmets  - 2 </br> SWAT Suits - 2 </br> Combat gloves - 2 </br> SWAT sec Hailers - 2 </br> Combat Belt = 2 |Armory         |The SWAT suit and helmets are space proof  |
 |SWAT tatical tasers Crate                       |7000|SWAT Tasers  - 2                   |Armory        |                                           |
-|Classic WoodStock Shotguns Crate                |3000|4 Round shotgun  - 3               |Armory        |Already loaded but needs to be chambered       |
+|Russian Surplus Crate                           |5000|Ration Pack</br>Stripper Clip (7.62mm)</br>Ammo Storge Toolbox</br>Russian Armor Vest</br>Russian Armor Helmet</br>Russian Shoes</br>Combat Gloves</br>Sovit Jumpsuit</br>Sovit Turtleneck Jumpsuit</br>Russian Balaclava</br>Russian Ushanka</br>Russian Coat</br>Bolt Action Rifle              |Armory & Console Needs to be hacked|Only picks ten items inside the crate.   |
 |WT-550 Semi-Auto Rifle Crate                    |2550|WT-550 Semi Auto rifle   - 2       |Armory        |Pre loaded with lethals                    |
 |WT-550 Semi-Auto SMG Ammo Crate                 |1750|WT-550 rifle Lethal Ammo  - 4      |Armory        |                                           |
 |WT-550 Semi-Auto SMG Non-Lethal Ammo Crate      |1750|WT-550 rifle None Lethal Ammo  - 4 |Armory        |                                           |
@@ -98,6 +101,37 @@ Cargo budget starts off with 5,000 credits, and a passive income of 750 credits 
 |Kinkmate construction kit                       |2000|Kinkmate Restock Unit  - 1</br>Kinkmate Machine Circuitboard  - 1          |Console Needs to be hacked|      |
 </details>
 
+#### Emergency
+
+<details>
+  <summary>Click to expand!</summary>
+ 
+|Name                                            |Cost|Contents                          |Access Required|Notes                                      |
+|:----------------------- |:--------------------------|:---------------|:------------------------------------------|:--|
+|Biker Gang Kit                                  |2500|ATV -1</br>ATV Key-1</br>Leather Overcoat-1</br>Black Gloves-1</br>Gray Soft Cap</br>Skull Bandana-1             |Console Needs to be hacked    |                                           |
+|Biological Emergency Crate                      |2000|Biohood - 2</br> Biosuit -2</br>Bio Bag-1</br>Antiviral Syringe-2</br>Nitrile Gloves-2           |         |                                           |
+|Emergency Bot/Internals Crate                   |2750|Medibot -2</br>Floorbot -2</br>Air Tank -5</br>Gas Mask -5          |         |                                           |
+|Emergency Medical Supplies                      |10000|Box of Bodybags - 2</br>Heath HUD -1</br>Loaded Defibrillator -1</br>Medical Belt -1</br>Toxin First Aid Kit -1</br>O2 First Aid Kit -1 </br>Brute First Aid Kit -1</br>Burn Treatment Kit - 1</br>Glass Bottle of Toxins -2</br> Storge Box of Medipens -1           |         |                                           |
+|Emergency Medical Supplies (Lite)               |2800|Box of Bodybags - 1</br>Stack of Gauze -2</br>Health Analyzer -2</br> Advanced Health Analyzer -1</br>First Aid Kit -1</br>Spray of Styptic -1 </br>Spray of Silver Sulfadiazine -1</br>Spray of Synthflesh -1</br>Glass Bottle of Charcoal -2</br>Glass Bottle of Toxins -1</br>Epinephrine Medipens -4          |         |                                           |
+|Emergency Radiation Protection Crate            |2500|Radiation Hood -2</br>Radiation Suit -2</br>Geiger Counter -2</br>Radiation Treatment Deluxe Pill Bottle -1</br>Radiation Treatment Kit -1           |         |                                           |
+|Emergency RCDs                                  |1500|RCD- 2           |         |The RCDs dont come loaded                                     |
+|Emergency Space Suit                            |1200|Air Tank -2</br>Gas Mask -2</br>Soft Space Suit Helmet -2</br> Soft Space Suit -2           |         |                                           |
+|Explosive Emergency Crate                       |1500|Bomb Protection Hood - 1</br>Bomb Protection Suit -1</br>Screwdriver -1</br>Multitool -1</br>Wirecutters -1</br>           |         |                                           |
+|Firefighting Crate                              |1200|Fire Fighter Suit -2</br> Red Hard Hat -2</br>Gas Mask -2</br>Flashlight -2</br>Red Air Tank -2</br>Advanced Fire Extinguisher -2           |         |                                           |
+|Firefighting Tank Backpack                      |1000|Atmos Watertank -1           |Atmospheric|                                           |
+|Internals Crate                                 |1000|Gas Mask- 3</br>Breath Mask -3</br>Air Tank-3</br>Emergency Oxygen Tank -3           |         |                                           |
+|Metal Foam Grenade Crate                        |1500|Metal Foam Grenades -14           |         |                                           |
+|MRE supply kit (emergency rations)              |1000|MRE Menu One - 2</br> MRE Menu Two -2</br>  MRE Menu Three -1  MRE Menu Four -1      |         |                                           |
+|NULL Crate                                      |20000|Worth of 30TC of gear found in a uplink           |Must Emag the Console|                                           |
+|Plasmaman Space Envirosuits                     |4000|Plasmaman Space Suit -2 </br> Plasmama Space Hemlet -2           |EVA|                                           |
+|Plasmaman Supply Kit                            |2000|Plasmaman Suit -2 </br> Plasmama Space Hemlet -2</br> Plasmaman Internals -2           |EVA|                                           |
+|Radiation Protection Crate                      |1300|Radiation Hood -2</br>Radiation Suit -2</br>Geiger Counter -2</br> Bottle of Vodka -2 </br> Shot glasses -2           |         |                                           |
+|Space Suit Crate                                |1500|Space Suit -2</br> Space Hemlet -2</br>Breath Mask -2           |         |                                           |
+|Spare EVA Jetpacks                              |2000|EVA Grade Jectpacks -3           |  EVA   |                                           |
+|Special Ops Supplies                            |2200|Box of EMPs -1</br>Smoke Grenade -3</br>Sleepy Pen -1</br>Incendiary Grenade -1           |Must Emag the Console|                                           |
+|Weed Control Crate                              |1800|Gas Mask -1</br>Scythe -1</br>Spray Bottle of Plant-B-Gone -2</br>Anti-Weed Grenade -2           |Hydroponics|                                           |
+
+</details>
 
 ## What Crates Look Like
 
