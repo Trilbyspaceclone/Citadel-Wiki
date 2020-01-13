@@ -133,6 +133,31 @@ Cargo budget starts off with 5,000 credits, and a passive income of 750 credits 
 
 </details>
 
+
+#### Engine Construction
+
+<details>
+  <summary>Click to expand!</summary>
+ 
+|Name                                            |Cost|Contents                          |Access Required|Notes                                      |
+|:----------------------- |:--------------------------|:---------------|:------------------------------------------|:--|
+|Antimatter Containment Jar Crate                |2300|Antimatter Containment Jar - 2    |               |             |
+|Antimatter Control Crate                        |5200|Antimatter Controls - 1           |               |             |
+|Antimatter Shielding Crate                      |2500|Antimatter Shield - 9             |               |             |
+|Emitter Crate                                   |1750|Emitter - 2                       |CE             |             |
+|Field Generator Crate                           |1750|Field Generator - 2               |               |             |
+|Grounding Rod Crate                             |2200|Grounding Rod - 4                 |               |             |
+|M.A.S.O.N RIG Crate                             |15000|M.A.S.O.N RIG - 1                |CE             |             |
+|Particle Accelerator Crate                      |3750|PA Fuel Chamber - 2  </br>PA Control Box - 1</br> PA Emitter Center - 1</br>PA Emitter Left - 1</br> PA Emitter Right - 1</br>PA Power Boc - 1</br>PA End Cap - 1                      |               |             |
+|Radiation Collector Crate                       |2750|Radiation Collector - 3           |               |             |
+|Singularity Generator Crate                     |6000|Singularity Generator - 1         |               |             |
+|Solar Panel Crate                               |2850|Solar Assemblies - 21</br>Solar-Control Circuit Board - 1</br>Solar Tracker - 1</br>Solar Power Guide Paper - 1         |               |             |
+|Supermatter Shard Crate                         |10000|Supermatter Shard - 1            |CE             |             |
+|Tesla Coil Crate                                |3500|Tesla Coil - 4                    |               |             |
+|Tesla Generator Crate                           |7000|Tesla Generator - 1               |               |             |
+
+</details>
+
 ## What Crates Look Like
 
 ![All the crates!](https://cdn.discordapp.com/attachments/578056201418571776/661423587575726120/Crate.png "Every crate")
