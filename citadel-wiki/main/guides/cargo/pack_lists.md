@@ -158,6 +158,33 @@ Cargo budget starts off with 5,000 credits, and a passive income of 750 credits 
 
 </details>
 
+#### Engineering
+
+<details>
+  <summary>Click to expand!</summary>
+ 
+|Name                                            |Cost|Contents                          |Access Required|Notes                                      |
+|:----------------------- |:--------------------------|:---------------|:------------------------------------------|:--|
+|Anti-breach Shield Projector Crate              |2500|Anti-breach Shield Projector - 2   |               |             |
+|Conveyor Assembly Crate                         |750 |Conveyor Belts - 6 </br>Conveyor Switch - 1 </br>Instruction Book - 1           |               |             |
+|Engineering Gear Crate                          |1500|Toolbelts - 3</br> High-Visibility Vests - 3</br> Welding Helmets - 3</br> Hardhats - 3</br>Meson Goggles - 2             |           |             |
+|Engineering Hardsuit                            |2250|Engineering Hardsuit - 1</br> Air Tank - 1</br> Gas Mask - 1                       |Engineering|             |
+|Atmospherics Hardsuit                           |5000|Atmospherics Hardsuit - 1</br> Air Tank - 1</br> Gas Mask - 1                |CE             |             |
+|Industrial RCD                                  |4500|Industrial RCD - 1                |CE             |             |
+|Insulated Gloves Crate                          |2300|Insulated Glove - 3               |               |             |
+|NT-75 Electromagnetic Power Inducers Crate      |2300|SCI Inducers - 2                  |               |Comes with cells installed   |
+|P.A.C.M.A.N Generator Crate                     |2250|P.A.C.M.A.N Generator - 1         |               |Dosnt come with fuel             |
+|Power Cell Crate                                |1000|High-Voltage Power Cells - 3      |               |             |
+|Shuttle Engine Crate                            |5000|Bluespace Engine - 1              |CE             |             |
+|Toolbox Crate                                   |1200|Electrical Toolbox - 3 </br>Mechanical Toolbox - 3              |               |Ectrical toolboxes can spawn insulated gloves in them         |
+|Bluespace Artillery Parts                       |15000|BAP Circuitboard - 4                    |               |This is needed to complete a station goal.            |
+|DNA Vault Parts                                 |12000|DNA Circuitboard - 1</br>DNA Probe - 5               |               |This is needed to complete a station goal.         |
+|DNA Vault Samplers                              |3000|DNA Probe - 5               |               |         |
+|Shield Generator Satellite                      |4000|Meteor Satellite - 3               |               |         |
+|Shield System Control Board                     |4000|Shield System Control Board - 1               |               |         |
+
+</details>
+
 ## What Crates Look Like
 
 ![All the crates!](https://cdn.discordapp.com/attachments/578056201418571776/661423587575726120/Crate.png "Every crate")
