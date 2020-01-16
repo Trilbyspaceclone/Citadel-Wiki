@@ -177,11 +177,101 @@ Cargo budget starts off with 5,000 credits, and a passive income of 750 credits 
 |Power Cell Crate                                |1000|High-Voltage Power Cells - 3      |               |             |
 |Shuttle Engine Crate                            |5000|Bluespace Engine - 1              |CE             |             |
 |Toolbox Crate                                   |1200|Electrical Toolbox - 3 </br>Mechanical Toolbox - 3              |               |Ectrical toolboxes can spawn insulated gloves in them         |
-|Bluespace Artillery Parts                       |15000|BAP Circuitboard - 4                    |               |This is needed to complete a station goal.            |
-|DNA Vault Parts                                 |12000|DNA Circuitboard - 1</br>DNA Probe - 5               |               |This is needed to complete a station goal.         |
-|DNA Vault Samplers                              |3000|DNA Probe - 5               |               |         |
-|Shield Generator Satellite                      |4000|Meteor Satellite - 3               |               |         |
-|Shield System Control Board                     |4000|Shield System Control Board - 1               |               |         |
+|Bluespace Artillery Parts                       |15000|BAP Circuitboard - 4             |               |This is needed to complete a station goal.            |
+|DNA Vault Parts                                 |12000|DNA Circuitboard - 1</br>DNA Probe - 5  |               |This is needed to complete a station goal.         |
+|DNA Vault Samplers                              |3000|DNA Probe - 5                     |               |             |
+|Shield Generator Satellite                      |4000|Meteor Satellite - 3              |               |             |
+|Shield System Control Board                     |4000|Shield System Control Board - 1   |               |             |
+
+</details>
+
+#### Livestock
+
+<details>
+  <summary>Click to expand!</summary>
+ 
+|Name                                            |Cost|Contents                          |Access Required|Notes                                      |
+|:----------------------- |:--------------------------|:---------------|:------------------------------------------|:--|
+|Animal Feed Crate                               |1500|Wheat Plant - 50 </br> Oat Plant - 1   |               |             |
+|Bird Crate                                      |4000|Talking Bird - 5                  |               |Has a 1% to spawn a clock work bird     |
+|Butterflies Crate                               |5000|Butterfly - 50                    |Console Needs to be hacked|             |
+|Cat Crate                                       |5000|Cat - 1</br> Collar - 1</br>      |               |             |
+|Chicken Crate                                   |2000|Chicken -                         |               |             |
+|Crab Rocket                                     |5000|Crab - 50                         | Drop Pod Only |             |
+|Corgi Crate                                     |5000|Corgi - 1</br> Collar - 1         |               | Has 50% to spawn Lisa             |
+|Exotic Corgi Crate                              |5500|Exotic Corgi - 1</br> Collar - 1  |               |             |
+|Cow Crate                                       |3000|Cow - 1                           |               |             |
+|Fox Crate                                       |5000|Fox - 1</br> Collar - 1           |               |             |
+|Goat Crate                                      |2500|Goat - 1                          |               |             |
+|Goose Crate                                     |2500|Untitled Goose - 1                |               |             |
+|Pug Crate                                       |5000|Pug - 1 </br> Collar - 1          |               |             |
+|Space kiwi Crate                                |2000|Space Kiwi - 1                    |               |             |
+|Snake Crate                                     |3000|Poison Snake - 3                  |               |             |
+|Mouse Crate                                     |2000|Mouse - 12                        |               |             |
+|Security Bat Crate                              |2500|Security Bat - 5                  |               |             |
+
+</details>
+
+#### Canisters & Materials
+
+<details>
+  <summary>Click to expand!</summary>
+ 
+|Name                                            |Cost|Contents                          |Access Required|Notes                                      |
+|:----------------------- |:--------------------------|:---------------|:------------------------------------------|:--|
+|50 Cardboard Sheets                             |1000|Cardboard Sheet - 50              |               |             |
+|50 Glass Sheets                                 |850 |Glass Sheet - 50                  |               |             |
+|50 Metal Sheets                                 |850 |Metal Sheet - 50                  |               |             |
+|20 Plasteel Sheets                              |4700|Plasteel Sheet - 20               |               |             |
+|50 Plasteel Sheets                              |9050|Plasteel Sheet - 50               |               |             |
+|50 Plastic Sheets                               |950 |Plastic Sheet - 50                |               |             |
+|30 Sandstone Blocks                             |800 |Sandstone Blocks - 30             |               |             |
+|50 Towercap Logs                                |1000|Towercap Log - 50                 |               |             |
+|50 Wood Planks                                  |1450|Wood Plank - 50                   |               |             |
+|Raw Cotton Crate                                |800 |Raw Cotton - 40                   |               |             |
+|Raw Cotton Crate (Bulk)                         |1300|Raw Cotton - 240                  |               |             |
+|Spare RDC ammo                                  |3750|RDC ammo - 16                     |               |             |
+|Loom                                            |1000|Loom - 1                          |               |             |
+|BZ Canister Crate                               |7500|BZ Canister - 1                   |Toxins         |             |
+|Carbon Dioxide Canister                         |3000|Carbon Dioxide Canister - 1       |               |             |
+|Nitrogen Canister                               |2000|Nitrogen Canister - 1             |               |             |
+|Nitrous Oxide Canister                          |2500|Nitrous Oxide Canister - 1        |Atmospheric    |             |
+|Oxygen Canister                                 |1500|Oxygen Canister - 1               |               |             |
+|Water Vapor Canister                            |2500|Water Vapor Canister - 1          |               |             |
+|Fuel Tank Crate                                 |800 |Fuel Tank - 1                     |               |             |
+|Water Tank Crate                                |600 |Water Tank - 1                    |               |             |
+|Firefighting Foam Tank Crate                    |1500|Firefighting Foam Tank - 1        |               |             |
+|Large Water Tank Crate                          |1200|High-Capacity Water Tank - 1      |               |             |
+
+</details>
+
+#### Medical
+
+<details>
+  <summary>Click to expand!</summary>
+ 
+|Name                                            |Cost|Contents                          |Access Required|Notes                                      |
+|:----------------------- |:--------------------------|:---------------|:------------------------------------------|:--|
+|Bodybags                                        |1200|Boxes of Bodybags - 4             |               |             |
+|Bruise Treatment Kit Crate                      |1000|Brute First Aid Kit - 3           |               |             |
+|Burn Treatment Kit Crate                        |1000|Burn First Aid Kit - 3            |               |             |
+|Blood Pack Variety Crate                        |3000|Random Blood Pack - 1 </br> Synthetic Blood Pack - 2<br>AB+ Blood Pack - 1</br>AB- Blood Pack - 1 </br>A- Blood Pack - 1 </br>A+ Blood Pack - 1 </br>B+ Blood Pack - 1 </br>B- Blood Pack - 1 </br>O+ Blood Pack - 1 </br>O- Blood Pack - 1 </br>Lizard Blood Pack - 1 </br>Slime Blood Pack - 1 </br>Insect Blood Pack - 1              |               |             |
+|Chemical Starter Kit Crate                      |1700|Bottle of Hydrogen - 1 </br>Bottle of Carbon - 1 </br>Bottle of Nitrogen - 1</br>Bottle of Oxygen - 1 </br>Bottle of Fluorine - 1 </br>Bottle of Phosphorus - 1 </br>Bottle of Silicon - 1 </br>Bottle of Chlorine - 1 </br>Bottle of Radium - 1 </br>Bottle of Sulphuric Acid - 1</br>Bottle of Ethanol - 1</br>Bottle of Potassium - 1</br>Science Goggles - 1</br>Dropper - 1</br>Box of Beakers - 1               |               |             |
+|Defibrillator Crate                             |2500|Defibrillator - 2                 |               |Defibrillators come loaded with a cell|
+|First Aid Kit Crate                             |1000|First Aid Kit - 4                 |               |             |
+|IV Drip Crate                                   |800 |IV Drip - 1                       |               |             |
+|Med-Co Advanced surgery tools                   |5500|Spray of Synthflesh - 1</br>Spray of Sterilizine - 1</br>Belt of Advanced Surgical Tools - 1                 | Surgery |             |
+|Medical Hardsuit                                |2750|Medical Hardsuit - 1</br>Gas Mask - 1</br>Air Tank - 1                   |Medbay|             |
+|Medical Supplies Crate                          |2500|Bottle of Charcoal - 2</br>Bottle of Epinephrine - 2</br>Bottle of Morphine - 3</br>Bottle of Toxins - 2</br>Large Beaker - 2</br>Insulin Pill - 4</br>Stack of Medical Gauze - 1</br>Box of Beaker - 1</br>Box of Spray Bottle - 1</br>Box of Syringes - 1</br>Box of Bodybags - 1</br> Pill Bottle of Stimulants - 1|               |             |
+|Medical Vending Crate                           |2000|Wall NanoMed Vending Refill - 1</br>NanoMed Plus Vending Refill - 1                     |               |             |
+|Medical Sprays                                  |2250|Spray of Synthflesh - 2</br>Spray of Sterilizine - 2</br>Spray of Silver Sulfadiazine - 2</br>Spray of Styptic - 2                          |               |             |
+|Mixed Medical Kits                              |1250|Burn First Aid Kit - 1</br>Burn First Aid Kit - 1</br>First Aid Kit - 1</br>Toxic First Aid Kit - 1</br>Oxygen Deprivation First Aid Kit - 1                 |         |             |
+|Oxygen Deprivation Kit Crate                    |1000|Oxygen Deprivation First Aid Kit - 3    |               |             |
+|Radiation Treatment Crate Deluxe                |3500|Geiger Counter - 2</br>Pill Bottle of Antirad Plus - 1</br>Pill Bottle of Radiation Treatment Deluxe - 1</br>Radiation First Aid Kit - 2           |               |             |
+|Surgical Supplies Crate                         |1300|Duffle Bag of Surgical Tools - 1</br>Roller Bed - 1</br>Spray of Sterilizine - 1        |Surgery    |             |
+|Toxin Treatment Kit Crate                       |1000|Toxic First Aid Kit - 3           |               |             |
+|Virus Crate                                     |2500|Bottle of Flu - 1</br>Bottle of Common Cold - 1</br>Bottle of Random Virus - 4</br>Bottle of Fake Gibs - 1</br>Bottle of Magnitis - 1</br>Bottle of Pierrot Throat - 1</br>Bottle of Brainrot - 1</br>Bottle of Anxiety - 1</br>Bottle of Beesease - 1</br>Box of Beakers - 1</br> Box of Syringes - 1</br>Bottle of Unstable Mutagen - 1      |CMO            |             |
+|Virus Containment Crate                         |3000|Medibot - 1</br>Bio hood - 2</br>Bio Suit - 2</br>Anti-Viral Syringe - 4</br>Box of Syringe - 1</br>Box of Beakers - 1                 |Medbay|             |
 
 </details>
 
