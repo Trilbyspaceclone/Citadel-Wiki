@@ -44,27 +44,27 @@ Cargo budget starts off with 5,000 credits, and a passive income of 750 credits 
  
 |Name                                            |Cost|Contents                          |Access Required|Notes                                      |
 |:----------------------- |:--------------------------|:---------------|:------------------------------------------|:--|
-|Bulletproof Armor Crate                         |1250|Bullet Proof Vests - 3            |Armory         |                                           |
-|Bulletproof Helmet Crate                        |1250|Bullet Proof Helmet - 3           |Armory         |                                           |
-|Chemical Implants Crate                         |1700|Remote Chemical implants - 5      |Armory         |Comes with an implanter in the box         |
-|Classic WoodStock Shotguns Crate                |3000|Four Round shotgun  - 3           |Armory         |Already loaded but needs to be chambered       |
-|Combat Knives Crate                             |3200|Combat Knifes - 3                 |Armory         |                                           |
+|Bulletproof Armor Crate                         |1250|Bullet Proof Vests - 3             |Armory         |                                           |
+|Bulletproof Helmet Crate                        |1250|Bullet Proof Helmet - 3            |Armory         |                                           |
+|Chemical Implants Crate                         |1700|Remote Chemical implants - 5       |Armory         |Comes with an implanter in the box         |
+|Combat Knives Crate                             |3200|Combat Knifes - 3                  |Armory         |                                           |
 |Combat Shotguns Crate                           |8000|Automatic Combat Shotgun - 3 </br> Bandolier - 3 </br> Box of 12g - 1 </br> Box of Buckshot - 1 |Armory|The shotguns themselves come pre-loaded, just needs to be chambered|
-|DRAGnet gun Crate                               |3250|DRAGnet gun - 2                   |Armory         |                                           |
-|Energy Guns Crate                               |3250|Energy Gun - 3                    |Armory         |                                           |
-|Exile Implants Crate                            |1050|Exile implant - 5                 |Armory         |Comes with an implanter in the box, useless without admins to make an away mission                                                                                            |
-|Mindshield Implants Crate                       |4000|Mindshield Implants - 3           |Armory         |Likely will end up needing 3-4 of these in convertion based game mode.                                                                                                   |
+|DRAGnet gun Crate                               |3250|DRAGnet gun - 2                    |Armory         |                                           |
+|Energy Guns Crate                               |3250|Energy Gun - 3                     |Armory         |                                           |
+|Exile Implants Crate                            |1050|Exile implant - 5                  |Armory         |Comes with an implanter in the box, useless without admins to make an away mission                                                                                            |
+|Mindshield Implants Crate                       |4000|Mindshield Implants - 3            |Armory         |Likely will end up needing 3-4 of these in convertion based game mode.                                                                                                   |
 |Tracking Implants Crate                         |1050|Tracking Implant - 4 </br> .38 TRAC reloaders - 3              |Armory         | Comes with an implanter in the box        |
 |Incendiary Weapons Crate                        |1750|Fully made flamer - 1 </br> Plasma tank - 3 </br> Box of Dragon Breath - 1 <br/> Grenade Incendiary - 3                                                                       |Heads |Flamer doesn't come loaded.                  |
-|Personal Miniature Energy Guns                  |3000|Miniature Energy gun - 3          |Armory         |                                           |
-|Reflector Vest Crate                            |2000|Reflector Vest       - 2          |Armory         |Shockingly cheap traitor goal              |
-|Riot Armor Crate                                |1750|Riot Vests - 3                    |Armory         |                                           |
-|Riot Helmets Crate                              |1750|Riot Helmets - 3                  |Armory         |                                           |
-|Riot Shields Crate                              |2200|Riot Shields  - 3                 |Armory         |                                           |
+|Personal Miniature Energy Guns                  |3000|Miniature Energy gun - 3           |Armory         |                                           |
+|Reflector Vest Crate                            |2000|Reflector Vest       - 2           |Armory         |Shockingly cheap traitor goal              |
+|Riot Armor Crate                                |1750|Riot Vests - 3                     |Armory         |                                           |
+|Riot Helmets Crate                              |1750|Riot Helmets - 3                   |Armory         |                                           |
+|Riot Shields Crate                              |2200|Riot Shields  - 3                  |Armory         |                                           |
 |Riot Shotgun Crate                              |6500|Riot Shotgun  - 3        </br> Box of rubber shot - 1   </br> Box of Beanbag - 1                                                                                        |Armory|The shotguns themselves come pre-loaded, just needs to be chambered |
+|Russian Surplus Crate                           |5000|Ration Pack</br>Stripper Clip (7.62mm)</br>Ammo Storge Toolbox</br>Russian Armor Vest</br>Russian Armor Helmet</br>Russian Shoes</br>Combat Gloves</br>Sovit Jumpsuit</br>Sovit Turtleneck Jumpsuit</br>Russian Balaclava</br>Russian Ushanka</br>Russian Coat</br>Bolt Action Rifle              |Armory & Console Needs to be hacked|Only picks ten items inside the crate.   |
 |SWAT Crate                                      |6000|NT Swat Helmets  - 2 </br> SWAT Suits - 2 </br> Combat gloves - 2 </br> SWAT sec Hailers - 2 </br> Combat Belt - 2 |Armory         |The SWAT suit and helmets are space proof  |
 |SWAT tatical tasers Crate                       |7000|SWAT Tasers  - 2                   |Armory        |                                           |
-|Russian Surplus Crate                           |5000|Ration Pack</br>Stripper Clip (7.62mm)</br>Ammo Storge Toolbox</br>Russian Armor Vest</br>Russian Armor Helmet</br>Russian Shoes</br>Combat Gloves</br>Sovit Jumpsuit</br>Sovit Turtleneck Jumpsuit</br>Russian Balaclava</br>Russian Ushanka</br>Russian Coat</br>Bolt Action Rifle              |Armory & Console Needs to be hacked|Only picks ten items inside the crate.   |
+|WoodStock Classic Shotguns Crate                |3000|Four Round shotgun  - 3            |Armory         |Already loaded but needs to be chambered       |
 |WT-550 Semi-Auto Rifle Crate                    |2550|WT-550 Semi Auto rifle   - 2       |Armory        |Pre loaded with lethals                    |
 |WT-550 Semi-Auto SMG Ammo Crate                 |1750|WT-550 rifle Lethal Ammo  - 4      |Armory        |                                           |
 |WT-550 Semi-Auto SMG Non-Lethal Ammo Crate      |1750|WT-550 rifle None Lethal Ammo  - 4 |Armory        |                                           |
@@ -166,10 +166,11 @@ Cargo budget starts off with 5,000 credits, and a passive income of 750 credits 
 |Name                                            |Cost|Contents                          |Access Required|Notes                                      |
 |:----------------------- |:--------------------------|:---------------|:------------------------------------------|:--|
 |Anti-breach Shield Projector Crate              |2500|Anti-breach Shield Projector - 2   |               |             |
-|Conveyor Assembly Crate                         |750 |Conveyor Belts - 6 </br>Conveyor Switch - 1 </br>Instruction Book - 1           |               |             |
+|Conveyor Assembly Crate                         |750 |Conveyor Belts - 15 </br>Instruction Book - 1           |               |             |
 |Engineering Gear Crate                          |1500|Toolbelts - 3</br> High-Visibility Vests - 3</br> Welding Helmets - 3</br> Hardhats - 3</br>Meson Goggles - 2             |           |             |
 |Engineering Hardsuit                            |2250|Engineering Hardsuit - 1</br> Air Tank - 1</br> Gas Mask - 1                       |Engineering|             |
 |Atmospherics Hardsuit                           |5000|Atmospherics Hardsuit - 1</br> Air Tank - 1</br> Gas Mask - 1                |CE             |             |
+|Radiation Voidsuit                              |3500|Radiation Voidsuit Helm - 1</br>Radiation Voidsuit Suit - 1</br> Air Tank - 1</br> Gas Mask - 1                |Engineering|             |
 |Industrial RCD                                  |4500|Industrial RCD - 1                |CE             |             |
 |Insulated Gloves Crate                          |2300|Insulated Glove - 3               |               |             |
 |NT-75 Electromagnetic Power Inducers Crate      |2300|SCI Inducers - 2                  |               |Comes with cells installed   |
@@ -230,7 +231,7 @@ Cargo budget starts off with 5,000 credits, and a passive income of 750 credits 
 |50 Wood Planks                                  |1450|Wood Plank - 50                   |               |             |
 |Raw Cotton Crate                                |800 |Raw Cotton - 40                   |               |             |
 |Raw Cotton Crate (Bulk)                         |1300|Raw Cotton - 240                  |               |             |
-|Spare RDC ammo                                  |3750|RDC ammo - 16                     |               |             |
+|Spare RCD ammo                                  |3750|RDC ammo - 16                     |               |             |
 |Loom                                            |1000|Loom - 1                          |               |             |
 |BZ Canister Crate                               |7500|BZ Canister - 1                   |Toxins         |             |
 |Carbon Dioxide Canister                         |3000|Carbon Dioxide Canister - 1       |               |             |
@@ -274,6 +275,27 @@ Cargo budget starts off with 5,000 credits, and a passive income of 750 credits 
 |Virus Containment Crate                         |3000|Medibot - 1</br>Bio hood - 2</br>Bio Suit - 2</br>Anti-Viral Syringe - 4</br>Box of Syringe - 1</br>Box of Beakers - 1                 |Medbay|             |
 
 </details>
+
+#### Miscellaneous Supplies
+
+<details>
+  <summary>Click to expand!</summary>
+ 
+|Name                                            |Cost|Contents                          |Access Required|Notes                                      |
+|:----------------------- |:--------------------------|:---------------|:------------------------------------------|:--|
+|Loot Box                                        |15000|Detla Locked Puzzle - 1          |Console Needs to be hacked|             |
+|Art Supplies                                    |800 |Easel - 2</br>Cavas 19x19 - 2</br>Cavas 23x19 - 2</br>Cavas 23x23 - 2</br>Box of Crayons - 2</br>White Crayon - 2</br>Rainbow Crayon                  |               |             |
+|Book Crate                                      |1500|Random Book - 3</br> Random Manula - 3</br>Codex Gigas - 1                |               |             |
+|Bureaucracy Crate                               |1500|Moveable Chestdrawer - 1</br>Camera Film - 1</br>Hand Labeler - 1</br>Hand Labeler Refill - 2</br>Paper Bin - 1</br>Four Colour Pen - 2</br>Pen - 1</br>Blue Pen - 1</br>Red Pen - 1</br>Blue Folder - 1</br>Red Folder - 1</br>Yellow Folder - 1</br>Clipboard - 2</br>Approved Stamp - 1</br>Denied Stamp - 1</br>Briefcase - 1             |               |             |
+|Captain Pen                                     |5000|Captain Pen - 1                   |Captain        |             |
+|Calligraphy Crate                               |730 |Box of Fountain Pens  - 1</br>Paper Bin - 1             |               |             |
+|Freelance Paper work                            |700 |Fountain Pen - 1</br>Freelance Paper Work - 20             | Filling out the paper work and sending it back will make 2400 credits.    |             |
+|Bedsheet Crate (R)                              |2000|Random Bed Sheet - 8              |               |             |
+|Bedsheet Crate (C)                              |1250|Bed Sheet Red - 1</br>Red Bed Sheet Blue - 1</br>Yellow Bed Sheet - 1</br>Green Bed Sheet - 1</br>Purple Bed Sheet - 1</br>Brown Bed Sheet - 1</br>Black Bed Sheet - 1</br>Rainbow Bed Sheet - 1                   |               |             |
+|Bicycle                                         |1000000|Bicycle - 1                    |               |             |
+
+</details>
+
 
 ## What Crates Look Like
 
