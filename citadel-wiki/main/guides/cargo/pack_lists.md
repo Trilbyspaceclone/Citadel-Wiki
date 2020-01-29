@@ -7,13 +7,27 @@ Supply Crates are ordered at Cargo Bay by either a Cargo Technician or the Quart
 
 # Contents
 |Contents|
-|:--------|
-[Ordering Crates](#ordering-crates)
-[Crate Locks and Access](#crate-locks-and-access)
-[The cargo consoles](#the-cargo-consoles)
-[Order Up](#order-up)
-[The Packs](#the-packs)
-[What Crates Look Like](#what-crates-look-like)
+</br>
+|[Ordering Crates](#ordering-crates)</br>
+|[Crate Locks and Access](#crate-locks-and-access)</br>
+|[The cargo consoles](#the-cargo-consoles)</br>
+|[Order Up](#order-up)</br>
+|[The Packs](#the-packs)</br>
+|*[Armory](#armory)</br>
+|[Costumes & Toys](#costumes-and-toys)</br>
+|[Emergency](#emergency)</br>
+|[Engine Construction](#engine-construction)</br>
+|[Engineering](#engineering)</br>
+|[Livestock](#the-packs)</br>
+|[Canisters & Materials](#canisters-and-materials)</br>
+|[Medical](#medical)</br>
+|[Miscellaneous Supplies](#miscellaneous-supplies)</br>
+|[Food & Hydroponics](#food-and-hydroponics)</br>
+|[Science](#science)</br>
+|[Security](#security)</br>
+|[Service](#service)</br>
+|[Vending](#vending)*</br>
+|[What Crates Look Like](#what-crates-look-like)
 
 ## Ordering Crates
 The Cargo Crew can order a whole lot of crates and usually wants the crate back after you've taken your supplies. They are worth a certain amount of points which can be used to get more supplies for the station's whole benefit. Cargo Techs like it when people bring crates, and will often give things without hassle to people with crates brought in.
@@ -71,7 +85,7 @@ Cargo budget starts off with 5,000 credits, and a passive income of 500 credits 
 |WT-550 Semi-Auto SMG Special Ammo Crate         |3000|WT-550 rifle Incendiary Ammo  - 2  </br> WT-550 rifle AP Ammo  - 2 |Armory        |                                           |                                         |
 </details>
 
-#### Costumes & Toys
+#### Costumes and Toys
 <details>
   <summary>Click to expand!</summary>
  
@@ -123,7 +137,6 @@ Cargo budget starts off with 5,000 credits, and a passive income of 500 credits 
 |Weed Control Crate                              |1800|Gas Mask - 1</br>Scythe - 1</br>Spray Bottle of Plant-B-Gone - 2</br>Anti-Weed Grenade - 2           |Hydroponics|                                           |
 
 </details>
-
 
 #### Engine Construction
 
@@ -206,7 +219,7 @@ Cargo budget starts off with 5,000 credits, and a passive income of 500 credits 
 
 </details>
 
-#### Canisters & Materials
+#### Canisters and Materials
 
 <details>
   <summary>Click to expand!</summary>
@@ -304,7 +317,7 @@ Cargo budget starts off with 5,000 credits, and a passive income of 500 credits 
 
 </details>
 
-#### Food & Hydroponics
+#### Food and Hydroponics
 
 <details>
   <summary>Click to expand!</summary>
