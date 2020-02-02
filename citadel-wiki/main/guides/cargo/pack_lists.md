@@ -302,8 +302,10 @@ Cargo budget starts off with 5,000 credits, and a passive income of 500 credits 
 |Coin Crate                                      |3000|Silver Coin - 10                  |Console Needs to be hacked|             |
 |Dirty Magazines                                 |12000|.357 Speed Loader</br>9mm magazine</br>Point 45 Cleaner Rounds|Must Emag the Console| Only 3 items in said crate           |
 |Candle Crate                                    |850 |Box of Candles - 2</br>Box of Crayons - 1                   |        |             |
+|Diamond Ring                                    |10000|Diamond Ring Box - 1                   |        |             |
 |Exotic Footwear Crate                           |4337|Foot Wraps - 2</br>Foot Wraps Silver - 2</br>Foot Wraps Red - 2</br>Foot Wraps Blue - 2</br>Clown Shoes -1</br>Kindle Kicks - 1                   |        |             |
 |Funeral Supplies                                |1200|Burial Clothing - 1</br>Box of Candles - 2</br>Harebell Flowers - 2</br>Lily Flowers - 2</br>Geranium Flowers - 2</br>Box of Crayons - 1</br>Paper Bin - 1                  |        |             |
+|Jewelry Crate                                   |5000|Golden Neckless - 1</br>Gold Ring Box - 1</br>Silver Ring Box - 1                   |        |             |
 |Jukebox                                         |10000|Jukebox - 1                       |               |             |
 |Loot Box                                        |15000|Detla Locked Puzzle - 1          |Console Needs to be hacked|             |
 |Potted Plants Crate                             |730 |Potted Plant - 5                  |               |             |
@@ -355,7 +357,7 @@ Cargo budget starts off with 5,000 credits, and a passive income of 500 credits 
  
 |Name                                            |Cost|Contents                          |Access Required|Notes                                      |
 |:----------------------- |:--------------------------|:---------------|:------------------------------------------|:--|
-|Advanced Alien Alloy Crate Crate                |15000|Abductor Alloy - 1               | Drop Pod Only |             |
+|Advanced Alien Alloy Crate Crate                |150000|Abductor Alloy - 1               | Drop Pod Only & Console must be Emagged |             |
 |Chemistry Beakers Crate                         |1500|Small Beaker - 4</br>Large Beaker - 3</br>Plastic Beaker - 2</br>Cryo Beaker - 1</br>Metamaterial Beaker - 1</br>Dropper - 3</br>Latex Glove - 2                  |               |             |
 |Circuit Crate (Odysseus)                        |1500|Odysseus Main Circuitboard - 1</br>Odysseus Peripherals Circuitboard - 1                  |Robotics       |             |
 |Circuit Crate (Ripley APLU)                     |1200|Ripley Main Circuitboard - 1</br>Ripley Peripherals Circuitboard - 1</br>Ripley Build and Repair Manual - 1                |Robotics       |             |
