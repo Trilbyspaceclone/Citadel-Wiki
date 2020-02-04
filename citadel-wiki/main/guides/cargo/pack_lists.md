@@ -300,6 +300,9 @@ Cargo budget starts off with 5,000 credits, and a passive income of 500 credits 
 |Big Band Instrument Collection                  |1250|Violin - 1</br>Guitar - 1</br>Glockenspiel - 1</br>Accordion - 1</br>Saxophone - 1</br>Trombone - 1</br>Recorder - 1</br>Harmonica - 1</br>Grand Piano - 1                   |               |             |
 |Casino Crate                                    |5000|Battle Arcade Game Circuitboard - 2</br>Orion Trail Arcade Game Circuitboard - 2</br>Minesweeper Arcade Game Circuitboard - 2</br>Slots Game Circuitboard - 6                   |        |             |
 |Coin Crate                                      |3000|Silver Coin - 10                  |Console Needs to be hacked|             |
+|Dueling Pistols                                 |2000|None-Lethal Box of Dueling Pistols - 5                  ||             |
+|Lethal Dueling Pistols                          |3000|Lethal Box of Dueling Pistols - 3                  |Console Needs to be hacked|             |
+|Elimination Dueling Pistols                     |5000|Elimination Box of Dueling Pistols - 1                  |Console Needs to be Emagged|             |
 |Dirty Magazines                                 |12000|.357 Speed Loader</br>9mm magazine</br>Point 45 Cleaner Rounds|Must Emag the Console| Only 3 items in said crate           |
 |Candle Crate                                    |850 |Box of Candles - 2</br>Box of Crayons - 1                   |        |             |
 |Diamond Ring                                    |10000|Diamond Ring Box - 1                   |        |             |
