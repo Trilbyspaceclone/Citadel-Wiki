@@ -444,13 +444,18 @@ Cargo budget starts off with 5,000 credits, and a passive income of 500 credits 
 |Name                                            |Cost|Contents                          |Access Required|Notes                                      |
 |:----------------------- |:--------------------------|:---------------|:------------------------------------------|:--|
 |Bartending Supply Crate                         |2000|Booze-O-Mat Restock Unit  - 1</br>Coffie Restock Unit - 1</br>Book on Throwing Glasses Without Spilling - 1    |       |                 | |
+|Cartridge Supply Crate                          |5000|Cartridge PTech Restock Unit  - 1|       |                 | |
 |Cigarette Supply Crate                          |1500|Cigarette Restock Unit  - 1      |       |                 | |
+|Dinnerware Supply Crate                         |2500|Dinnerware Restock Unit  - 1</br>Sustenance Restock Unit  - 1      |       |                 | |
+|Engineering  Supply Crate                       |5000|YourTools Restock Unit  - 1</br>EngiVend Restock Unit  - 1      |  CE   |                 | |
 |Games Supply Crate                              |1000|Fun-N-Games Restock Unit  - 1    |       |                 | |
+|Hydroponics Supply Crate                        |5000|HydroSeeds Restock Unit  - 1</br>HydroNutrients Restock Unit  - 1      |       |                 | |
 |Kinkmate construction kit                       |2000|Kinkmate Restock Unit  - 1</br>Kinkmate Machine Circuitboard  - 1          |Console Needs to be hacked|      |
 |Medical Vending Crate                           |2000|Wall NanoMed Vending Refill - 1</br>NanoMed Plus Vending Refill - 1                     |               |             |
 |SecTech Supply Crate                            |1500|SecTech Restock Unit  - 1        |Security|                | |
 |Snack Supply Crate                              |1500|Snack Restock Unit  - 1          |       |                 | |
 |Softdrinks Supply Crate                         |1500|Oftdrink Restock Unit  - 1       |       |                 | |
+|Vendomat Supply Crate                           |1200|Vendomat Restock Unit  - 1       |       |                 | |
 |Autodrobe Supply Crate                          |1500|Autodrobe Restock Unit  - 1      |       |                 | |
 |Cargo Wardrobe Supply Crate                     |750 |CargoDrobe Restock Unit  - 1     |       |                 | |
 |Engineering Wardrobe Supply Crate               |1500|EngiDrobe Restock Unit - 1</br>AtmosDrobe Restock Unit  - 1      |       |                 | |
