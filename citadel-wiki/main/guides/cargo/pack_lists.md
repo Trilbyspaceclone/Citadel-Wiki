@@ -370,7 +370,7 @@ Cargo budget starts off with 5,000 credits, and a passive income of 500 credits 
 |Glass Blower Kit Crate                          |1000|Glass Blowing Tool Kit - 2</br>Glass Blowing Rod - 2                |               |             |
 |Monkey Cube Crate                               |1500|Box of Money Cubes - 1            |               |             |
 |Nitrile Gloves Crate                            |1500||Nitrile Gloves - 2               |               |             |
-|Nuke Defusal Kit                                |7500|NT Nuke Core Box - 1</br<NT Nukie Screwdriver - 1</br>NT Nuke Core Manual - 1                   | Drop Pod Only |             |
+|Nuke Defusal Kit                                |7500|NT Nuke Core Box - 1</br<NT Nukie Screwdriver - 1</br>NT Nuke Core Manual - 1                   | Must Emag the Console |             |
 |Plasma Assembly Crate                           |1800|Plasma Tank - 3</br>Igniter - 3</br>Prox-Sensor - 3</br>Timer - 3                   |Toxins         |             |
 |Relic Crate                                     |1000|Relic - 2                         | Console Needs to be hacked |             |
 |Robotics Assembly Crate                         |1500|Prox-Sensor - 3</br>Electrical Toolbox- 1</br>Vox of Flashes - 1</br>High-Voltage Power Cell - 2                     |Robotics       |             |
