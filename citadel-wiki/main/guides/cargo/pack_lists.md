@@ -340,7 +340,7 @@ Cargo budget starts off with 5,000 credits, and a passive income of 500 credits 
 |High-yield Clown-grade Cream Pie Crate          |6000|Duffle Bag of Cream Pies - 1      |Console Needs to be hacked & Theater | |
 |Meat Crate (Exotic)                             |2000|Slab of Crab Meat</br>Slab of Slime Meat</br>Slab of Killer Tomato Meat</br>Slab of Bear Meat</br>Slab of Xeno Meat</br>Slab of Spider Meat</br>Slab of Human Meat</br>Spider Leg</br>Raw Bacone</br>Slab of Carp Meat                 |               |Only 15 items in said crate.|
 |Meat Crate (Fresh)                              |2150|Box of Monkey Cubes - 1</br>Cable Cuffs - 1</br>IV Drip - 1</br>Beaker of Cryoxadone - 2                   |Console Needs to be hacked|             |
-|Meat Crate 'Synthetic'                          |1200|Slab of Crab Meat - 3</br>Slab of Meat Product Meat - 9</br>Slab of Imitation Carp Meat - 4                 |               |             |
+|Meat Crate 'Synthetic'                          |1200|Slab of Meat Product Meat - 12</br>Slab of Imitation Carp Meat - 4                 |               |             |
 |Mixed Ingredient Boxes                          |2300|Box of Mixed Ingredients - 4      |               |             |
 |Vegetable Crate                                 |1300|Chili</br>Corn</br>Tomato</br>Potato</br>Carrot</br>Chanterelle</br>Onoin</br>Pumpkin                     |               |Only 15 items in said crate.|
 |Beekeeper Suit Crate                            |1300|Beekeeper Suit - 2</br>Beekeeper Hood - 2                           |               |             |
